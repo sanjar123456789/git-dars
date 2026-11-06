@@ -1,1 +1,1 @@
-Server: nginx
+Server: docker
